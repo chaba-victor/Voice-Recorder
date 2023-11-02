@@ -1,2 +1,2 @@
-# Voice-Recorder
-This is a simple voice recorder in python
+# Voice Recorder
+Python is a versatile and widely-used programming language that has numerous applications across various domains; One of them is creating a voice recorder. We'll make use of  python’s [sounddevice](https://python-sounddevice.readthedocs.io/en/0.4.6/) module for recording and playing audio, together with the [wavio](https://pypi.org/project/wavio/) or the [scipy](https://scipy.org/) module which enables saving the recorded audio.
